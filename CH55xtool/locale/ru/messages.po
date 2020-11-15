@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-16 00:54+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-r\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. common options
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:48
+msgid "show this help"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:49
+msgid "pidfile (default: "
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:50
+msgid "name of binary file to flash"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:51
+msgid "don't reset MCU after writing"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:47
+#, c-format
+msgid "Another copy of this process found, pid=%d. Exit."
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:55
+#, c-format
+msgid "%d extra options:\n"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:71
+msgid "Chip not found"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:74
+msgid "Bad chip version"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:75
+#, c-format
+msgid "Found %s, version %s; flash size %d\n"
+msgstr ""
+
+#. just check chip
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:77
+msgid "Can't erase chip"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:78
+#, c-format
+msgid "Try to write %s\n"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:79
+msgid "Can't write flash"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:80
+msgid "Verify data\n"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:81
+msgid "Verification of flash failed"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:82
+msgid "Can't fix writing"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:84
+msgid "Reset MCU\n"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:66
+msgid "No devices found"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:135
+#, c-format
+msgid "Version %s not supported\n"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:149
+msgid "Wrong getver()?"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:150
+msgid "Wrong detect_chip()?"
+msgstr ""
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:152
+#, c-format
+msgid "Can't open %s"
+msgstr ""

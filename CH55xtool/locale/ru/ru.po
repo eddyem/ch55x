@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid   ""
+msgstr  "Project-Id-Version: \n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2020-11-16 00:54+0300\n"
+        "PO-Revision-Date: 2020-11-16 00:50+0300\n"
+        "Last-Translator: \n"
+        "Language-Team: \n"
+        "Language: ru\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=koi8-r\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Poedit 2.3.1\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:55
+#, c-format
+msgid   "%d extra options:\n"
+msgstr  "%d лишних опций:\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:47
+#, c-format
+msgid   "Another copy of this process found, pid=%d. Exit."
+msgstr  "Найдена другая копия этого процесса, pid=%d. Выход."
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:74
+msgid   "Bad chip version"
+msgstr  "Неправильная версия чипа"
+
+#. just check chip
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:77
+msgid   "Can't erase chip"
+msgstr  "Не могу очистить чип"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:82
+msgid   "Can't fix writing"
+msgstr  "Не могу завершить запись"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:152
+#, c-format
+msgid   "Can't open %s"
+msgstr  "Не могу открыть %s"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:79
+msgid   "Can't write flash"
+msgstr  "Не могу записать флеш"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:71
+msgid   "Chip not found"
+msgstr  "Чип не найден"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:75
+#, c-format
+msgid   "Found %s, version %s; flash size %d\n"
+msgstr  "Найден %s, версия %s; размер флеша %d\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:66
+msgid   "No devices found"
+msgstr  "Устройства не обнаружены"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:84
+msgid   "Reset MCU\n"
+msgstr  "Перезапуск МК\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:78
+#, c-format
+msgid   "Try to write %s\n"
+msgstr  "Пытаюсь записать %s\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:81
+msgid   "Verification of flash failed"
+msgstr  "Проверка провалилась"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/main.c:80
+msgid   "Verify data\n"
+msgstr  "Проверка даных\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:135
+#, c-format
+msgid   "Version %s not supported\n"
+msgstr  "Версия %s не поддерживается\n"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:150
+msgid   "Wrong detect_chip()?"
+msgstr  "Неправильный detect_chip()?"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/usb.c:149
+msgid   "Wrong getver()?"
+msgstr  "Неправильный getver()?"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:51
+msgid   "don't reset MCU after writing"
+msgstr  "не перезапускать МК после прошивки"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:50
+msgid   "name of binary file to flash"
+msgstr  "название бинарника для прошивки"
+
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:49
+msgid   "pidfile (default: "
+msgstr  "pid-файл (по умолчанию: "
+
+#. common options
+#: /Big/Data/00__Electronics/CH551..CH554/ch552tool-master/CH55xtool/cmdlnopts.c:48
+msgid   "show this help"
+msgstr  "отобразить эту справку"
